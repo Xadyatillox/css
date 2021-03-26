@@ -1,0 +1,111 @@
+body{
+  margin: 0;
+
+}
+
+h1{
+  color: #0000ff;
+ font-family: 'Redressed', cursive;
+margin-top: 0;
+padding: 40px;
+  font-size: 50px;
+}
+h2{
+  color:blue;
+  font-size: 40px;
+
+ font-family: 'Redressed', cursive;
+}
+span{
+  color:red;
+}
+body{
+text-align: center;
+}
+h3{
+  color:blue;
+  font-size: 30px;
+
+  font-family: 'Redressed', cursive
+}
+p{
+  color: #40514E;
+  font-family: 'Redressed', cursive;
+  line-height: 2;
+
+}
+
+.profile{
+  width: 40%;
+  margin: auto;
+  font-size: 20px;
+}
+.header{
+  text-align: center;
+  background:#CAF7E3;
+}
+.prog-img{
+height:20%;
+width:20%;
+margin: 30px;
+}
+hr{
+  width:4%;
+  border-width: 7px;
+  border-style: dotted;
+  border-top: none;
+  color:#CAF7E3;
+}
+.chess-img{
+  width: 25%;
+  height: 25%;
+  float:left;
+  margin-RIGHT: 20px;
+}
+.skill-row{
+  width: 50%;
+  text-align: left;
+  margin:auto;
+}
+.pen{
+  font-size: 20px;
+}
+.comp-img{
+  width:25%;
+  height:25%;
+  float:right;
+}
+.touch{
+  width:40%;
+margin:auto;
+}
+.button{
+  color:white;
+  background-color:#98ded9;
+  border-radius:100px;
+  padding: 20px 30px;
+  text-decoration: none;
+}
+.us{
+  margin:40px;
+}
+.button:hover{
+  background-color: blue;
+}
+.bottom-box{
+background-color: #66bfbf;
+padding:50px 0 20px;
+margin-top:50px;
+}
+.bottom-link{
+  padding:80px;
+  text-decoration: none;
+   font-family: 'Redressed', cursive;
+   color: #3c415c;
+}
+.bottom-link:hover{
+  color: white;
+
+}
+/* WARNING: font-family: 'Ravi Prakash', cursive;font-family: 'Akaya Telivigala', cursive;font-family: 'Fascinate', cursive;
+} */
